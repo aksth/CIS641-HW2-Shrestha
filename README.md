@@ -1,6 +1,6 @@
 # Akash Shrestha
 
-Graduate student at Grand Valley State University in Grand Rapids, Michigan. Currently pursuing my Master of Science degree in Applied Computer Science. Professionally, a full stack software engineer concentrating in Java backend and Angular frontend.
+Graduate student at Grand Valley State University in Grand Rapids, Michigan. Currently pursuing my Master of Science degree in Applied Computer Science. Professionally, a full stack software engineer concentrating in Java backend and Angular frontend. [GitHub Pages Personal Website](https://aksth.github.io/)
 
 ## Interests
 
